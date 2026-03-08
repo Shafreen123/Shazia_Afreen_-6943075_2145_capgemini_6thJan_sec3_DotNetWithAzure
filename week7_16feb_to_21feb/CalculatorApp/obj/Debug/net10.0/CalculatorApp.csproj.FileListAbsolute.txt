@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\bin\Debug\net10.0\CalculatorApp.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\bin\Debug\net10.0\CalculatorApp.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\bin\Debug\net10.0\CalculatorApp.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\bin\Debug\net10.0\CalculatorApp.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\bin\Debug\net10.0\CalculatorApp.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\refint\CalculatorApp.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\CalculatorApp.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week7_16feb_to_21feb\CalculatorApp\obj\Debug\net10.0\ref\CalculatorApp.dll

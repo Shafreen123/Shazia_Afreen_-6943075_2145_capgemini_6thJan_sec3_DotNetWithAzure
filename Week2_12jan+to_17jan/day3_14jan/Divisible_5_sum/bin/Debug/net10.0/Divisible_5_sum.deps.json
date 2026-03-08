@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Divisible_5_sum/1.0.0": {
+        "runtime": {
+          "Divisible_5_sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisible_5_sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

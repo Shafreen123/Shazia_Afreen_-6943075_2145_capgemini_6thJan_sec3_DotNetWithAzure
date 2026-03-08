@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\bin\Debug\net10.0\RightKey.exe
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\bin\Debug\net10.0\RightKey.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\bin\Debug\net10.0\RightKey.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\bin\Debug\net10.0\RightKey.dll
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\bin\Debug\net10.0\RightKey.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.dll
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\refint\RightKey.dll
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\RightKey.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\RightKey\obj\Debug\net10.0\ref\RightKey.dll

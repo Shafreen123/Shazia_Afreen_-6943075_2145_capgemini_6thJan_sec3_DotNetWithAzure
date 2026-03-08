@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\bin\Debug\net10.0\Binary.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\bin\Debug\net10.0\Binary.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\bin\Debug\net10.0\Binary.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\bin\Debug\net10.0\Binary.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\bin\Debug\net10.0\Binary.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\refint\Binary.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\Binary.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\Binary\obj\Debug\net10.0\ref\Binary.dll

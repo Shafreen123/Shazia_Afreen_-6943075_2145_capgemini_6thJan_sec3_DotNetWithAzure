@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PositiveNumber/1.0.0": {
+        "runtime": {
+          "PositiveNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PositiveNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

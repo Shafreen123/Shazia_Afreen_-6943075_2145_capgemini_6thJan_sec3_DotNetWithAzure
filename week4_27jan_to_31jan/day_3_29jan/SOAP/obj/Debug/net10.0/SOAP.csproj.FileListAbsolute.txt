@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\bin\Debug\net10.0\SOAP.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\bin\Debug\net10.0\SOAP.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\bin\Debug\net10.0\SOAP.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\bin\Debug\net10.0\SOAP.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\bin\Debug\net10.0\SOAP.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\refint\SOAP.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\SOAP.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\SOAP\obj\Debug\net10.0\ref\SOAP.dll

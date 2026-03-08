@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\anstraction\u0026interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3C96F-6A5E-48F2-AFAF-28C3C4E6B376}|anstraction\u0026interface.csproj|d:\\capegemini_cu_sec-3_shazia\\anstraction\u0026interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3C96F-6A5E-48F2-AFAF-28C3C4E6B376}|anstraction\u0026interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\anstraction\u0026interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\anstraction\u0026interface\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:40:13.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

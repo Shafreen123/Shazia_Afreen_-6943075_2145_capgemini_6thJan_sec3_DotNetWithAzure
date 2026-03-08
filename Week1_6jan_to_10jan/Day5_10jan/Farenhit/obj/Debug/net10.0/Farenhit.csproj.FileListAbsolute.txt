@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\bin\Debug\net10.0\Farenhit.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\bin\Debug\net10.0\Farenhit.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\bin\Debug\net10.0\Farenhit.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\bin\Debug\net10.0\Farenhit.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\bin\Debug\net10.0\Farenhit.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\refint\Farenhit.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\Farenhit.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\Farenhit\obj\Debug\net10.0\ref\Farenhit.dll

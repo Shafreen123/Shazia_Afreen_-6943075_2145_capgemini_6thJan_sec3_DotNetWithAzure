@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\bin\Debug\net10.0\Grade.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\bin\Debug\net10.0\Grade.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\bin\Debug\net10.0\Grade.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\bin\Debug\net10.0\Grade.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\bin\Debug\net10.0\Grade.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\refint\Grade.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\Grade.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Grade\obj\Debug\net10.0\ref\Grade.dll

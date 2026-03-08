@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\bin\Debug\net10.0\Student_Management_M1.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\bin\Debug\net10.0\Student_Management_M1.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\bin\Debug\net10.0\Student_Management_M1.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\bin\Debug\net10.0\Student_Management_M1.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\bin\Debug\net10.0\Student_Management_M1.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\refint\Student_Management_M1.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\Student_Management_M1.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Student_Management_M1\obj\Debug\net10.0\ref\Student_Management_M1.dll

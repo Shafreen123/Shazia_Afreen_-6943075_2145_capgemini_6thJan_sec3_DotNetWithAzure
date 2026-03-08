@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\bin\Debug\net10.0\inventory.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\bin\Debug\net10.0\inventory.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\bin\Debug\net10.0\inventory.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\bin\Debug\net10.0\inventory.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\bin\Debug\net10.0\inventory.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\refint\inventory.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\inventory.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day5_23jan\inventory\obj\Debug\net10.0\ref\inventory.dll

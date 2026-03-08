@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\bin\Debug\net10.0\Salary.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\bin\Debug\net10.0\Salary.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\bin\Debug\net10.0\Salary.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\bin\Debug\net10.0\Salary.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\bin\Debug\net10.0\Salary.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\refint\Salary.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\Salary.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day4_15jan\Salary\obj\Debug\net10.0\ref\Salary.dll

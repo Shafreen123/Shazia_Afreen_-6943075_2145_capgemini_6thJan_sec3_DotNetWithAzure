@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\bin\Debug\net10.0\perfect_number.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\bin\Debug\net10.0\perfect_number.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\bin\Debug\net10.0\perfect_number.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\bin\Debug\net10.0\perfect_number.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\bin\Debug\net10.0\perfect_number.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\refint\perfect_number.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\perfect_number.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\perfect_number\obj\Debug\net10.0\ref\perfect_number.dll

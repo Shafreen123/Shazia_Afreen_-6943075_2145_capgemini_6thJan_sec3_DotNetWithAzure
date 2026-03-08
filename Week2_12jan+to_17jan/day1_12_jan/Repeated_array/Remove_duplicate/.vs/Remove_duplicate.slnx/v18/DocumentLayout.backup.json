@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week2_12jan\u002Bto_17jan\\day1_12_jan\\Repeated_array\\Remove_duplicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C980F7D2-2414-BA9E-9C8C-82985A6755F9}|Remove_duplicate.csproj|d:\\capegemini_cu_sec-3_shazia\\week2_12jan\u002Bto_17jan\\day1_12_jan\\repeated_array\\remove_duplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980F7D2-2414-BA9E-9C8C-82985A6755F9}|Remove_duplicate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week2_12jan\u002Bto_17jan\\day1_12_jan\\Repeated_array\\Remove_duplicate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week2_12jan\u002Bto_17jan\\day1_12_jan\\Repeated_array\\Remove_duplicate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:43:08.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

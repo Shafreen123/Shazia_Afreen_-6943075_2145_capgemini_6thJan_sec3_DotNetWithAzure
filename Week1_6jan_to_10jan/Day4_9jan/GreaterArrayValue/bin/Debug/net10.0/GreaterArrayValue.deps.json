@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GreaterArrayValue/1.0.0": {
+        "runtime": {
+          "GreaterArrayValue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GreaterArrayValue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

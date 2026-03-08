@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\bin\Debug\net10.0\Average_odd_even.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\bin\Debug\net10.0\Average_odd_even.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\bin\Debug\net10.0\Average_odd_even.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\bin\Debug\net10.0\Average_odd_even.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\bin\Debug\net10.0\Average_odd_even.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\refint\Average_odd_even.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\Average_odd_even.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Average_odd_even\obj\Debug\net10.0\ref\Average_odd_even.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "customer_service_workflow/1.0.0": {
+        "runtime": {
+          "customer_service_workflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "customer_service_workflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

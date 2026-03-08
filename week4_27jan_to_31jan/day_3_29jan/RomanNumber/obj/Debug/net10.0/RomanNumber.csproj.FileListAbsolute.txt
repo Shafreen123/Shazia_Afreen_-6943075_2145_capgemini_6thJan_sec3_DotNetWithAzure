@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\bin\Debug\net10.0\RomanNumber.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\bin\Debug\net10.0\RomanNumber.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\bin\Debug\net10.0\RomanNumber.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\bin\Debug\net10.0\RomanNumber.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\bin\Debug\net10.0\RomanNumber.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\refint\RomanNumber.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\RomanNumber.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\RomanNumber\obj\Debug\net10.0\ref\RomanNumber.dll

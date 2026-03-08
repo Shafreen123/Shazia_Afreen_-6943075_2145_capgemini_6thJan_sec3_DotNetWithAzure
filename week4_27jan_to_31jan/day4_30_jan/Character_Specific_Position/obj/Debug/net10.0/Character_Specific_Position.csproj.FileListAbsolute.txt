@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\bin\Debug\net10.0\Character_Specific_Position.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\bin\Debug\net10.0\Character_Specific_Position.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\bin\Debug\net10.0\Character_Specific_Position.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\bin\Debug\net10.0\Character_Specific_Position.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\bin\Debug\net10.0\Character_Specific_Position.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\refint\Character_Specific_Position.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\Character_Specific_Position.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day4_30_jan\Character_Specific_Position\obj\Debug\net10.0\ref\Character_Specific_Position.dll

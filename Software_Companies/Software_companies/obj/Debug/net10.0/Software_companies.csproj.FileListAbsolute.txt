@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\bin\Debug\net10.0\Software_companies.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\bin\Debug\net10.0\Software_companies.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\bin\Debug\net10.0\Software_companies.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\bin\Debug\net10.0\Software_companies.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\bin\Debug\net10.0\Software_companies.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\refint\Software_companies.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\Software_companies.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Software_Companies\Software_companies\obj\Debug\net10.0\ref\Software_companies.dll

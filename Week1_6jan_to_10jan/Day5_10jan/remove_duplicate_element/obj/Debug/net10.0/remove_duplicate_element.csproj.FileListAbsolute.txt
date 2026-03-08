@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\bin\Debug\net10.0\remove_duplicate_element.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\bin\Debug\net10.0\remove_duplicate_element.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\bin\Debug\net10.0\remove_duplicate_element.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\bin\Debug\net10.0\remove_duplicate_element.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\bin\Debug\net10.0\remove_duplicate_element.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\refint\remove_duplicate_element.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\remove_duplicate_element.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\remove_duplicate_element\obj\Debug\net10.0\ref\remove_duplicate_element.dll

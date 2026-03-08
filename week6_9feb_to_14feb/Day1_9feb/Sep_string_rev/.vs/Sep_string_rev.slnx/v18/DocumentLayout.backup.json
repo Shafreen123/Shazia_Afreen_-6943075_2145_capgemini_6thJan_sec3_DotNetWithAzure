@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\week6_9feb_to_14feb\\Day1_9feb\\Sep_string_rev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B22528A-84C9-4D5F-B723-5534319306F6}|Sep_string_rev.csproj|d:\\capegemini_cu_sec-3_shazia\\week6_9feb_to_14feb\\day1_9feb\\sep_string_rev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B22528A-84C9-4D5F-B723-5534319306F6}|Sep_string_rev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week6_9feb_to_14feb\\Day1_9feb\\Sep_string_rev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week6_9feb_to_14feb\\Day1_9feb\\Sep_string_rev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T05:45:50.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

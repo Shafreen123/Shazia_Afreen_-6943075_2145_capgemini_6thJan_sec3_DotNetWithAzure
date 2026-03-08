@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\bin\Debug\net10.0\BankAccount.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\bin\Debug\net10.0\BankAccount.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\bin\Debug\net10.0\BankAccount.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\bin\Debug\net10.0\BankAccount.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\bin\Debug\net10.0\BankAccount.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\refint\BankAccount.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\BankAccount.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\BankAccount\obj\Debug\net10.0\ref\BankAccount.dll

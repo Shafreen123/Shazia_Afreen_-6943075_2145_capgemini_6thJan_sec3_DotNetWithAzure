@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\bin\Debug\net10.0\is_to_isnot.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\bin\Debug\net10.0\is_to_isnot.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\bin\Debug\net10.0\is_to_isnot.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\bin\Debug\net10.0\is_to_isnot.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\bin\Debug\net10.0\is_to_isnot.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\refint\is_to_isnot.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\is_to_isnot.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_3_29jan\is_to_isnot\obj\Debug\net10.0\ref\is_to_isnot.dll

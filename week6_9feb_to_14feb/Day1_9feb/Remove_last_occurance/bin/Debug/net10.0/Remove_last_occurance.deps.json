@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Remove_last_occurance/1.0.0": {
+        "runtime": {
+          "Remove_last_occurance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove_last_occurance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

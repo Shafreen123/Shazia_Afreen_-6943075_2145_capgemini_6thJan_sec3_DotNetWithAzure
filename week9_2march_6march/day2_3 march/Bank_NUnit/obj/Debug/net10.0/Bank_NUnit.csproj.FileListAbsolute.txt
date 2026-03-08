@@ -1,0 +1,5 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Bank_NUnit\obj\Debug\net10.0\Bank_NUnit.csproj.AssemblyReference.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Bank_NUnit\obj\Debug\net10.0\Bank_NUnit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Bank_NUnit\obj\Debug\net10.0\Bank_NUnit.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Bank_NUnit\obj\Debug\net10.0\Bank_NUnit.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\Bank_NUnit\obj\Debug\net10.0\Bank_NUnit.csproj.CoreCompileInputs.cache

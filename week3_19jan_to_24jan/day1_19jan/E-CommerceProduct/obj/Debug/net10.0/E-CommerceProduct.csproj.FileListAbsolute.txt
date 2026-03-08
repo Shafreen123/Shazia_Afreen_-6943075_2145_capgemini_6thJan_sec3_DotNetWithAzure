@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\bin\Debug\net10.0\E-CommerceProduct.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\bin\Debug\net10.0\E-CommerceProduct.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\bin\Debug\net10.0\E-CommerceProduct.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\bin\Debug\net10.0\E-CommerceProduct.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\bin\Debug\net10.0\E-CommerceProduct.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\refint\E-CommerceProduct.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\E-CommerceProduct.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\E-CommerceProduct\obj\Debug\net10.0\ref\E-CommerceProduct.dll

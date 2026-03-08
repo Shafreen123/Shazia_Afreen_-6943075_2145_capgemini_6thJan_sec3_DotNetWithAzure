@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Robotic SafetyException/1.0.0": {
+        "runtime": {
+          "Robotic SafetyException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robotic SafetyException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

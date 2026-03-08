@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\companyaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:companyaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\softwarecompaniesgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:softwarecompaniesgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\subemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:subemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\companies_names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:companies_names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\hiddendetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:hiddendetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\company_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:company_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|d:\\capegemini_cu_sec-3_shazia\\software_companies\\software_companies\\software_companies.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{334ED4D3-6C71-9241-2EF1-154E6A4ACC62}|Software_companies.csproj|solutionrelative:software_companies.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftwareCompaniesGeneric.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\SoftwareCompaniesGeneric.cs",
+              "RelativeDocumentMoniker": "SoftwareCompaniesGeneric.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\SoftwareCompaniesGeneric.cs",
+              "RelativeToolTip": "SoftwareCompaniesGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:34:45.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyAddress.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\CompanyAddress.cs",
+              "RelativeDocumentMoniker": "CompanyAddress.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\CompanyAddress.cs",
+              "RelativeToolTip": "CompanyAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:12:25.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubEmployee.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\SubEmployee.cs",
+              "RelativeDocumentMoniker": "SubEmployee.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\SubEmployee.cs",
+              "RelativeToolTip": "SubEmployee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:52:04.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:34:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HiddenDetails.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\HiddenDetails.cs",
+              "RelativeDocumentMoniker": "HiddenDetails.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\HiddenDetails.cs",
+              "RelativeToolTip": "HiddenDetails.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T04:16:49.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company_info.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Company_info.cs",
+              "RelativeDocumentMoniker": "Company_info.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Company_info.cs",
+              "RelativeToolTip": "Company_info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:41:23.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Company.cs",
+              "RelativeDocumentMoniker": "Company.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Company.cs",
+              "RelativeToolTip": "Company.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:40:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Companies_names.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Companies_names.cs",
+              "RelativeDocumentMoniker": "Companies_names.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Companies_names.cs",
+              "RelativeToolTip": "Companies_names.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:35:25.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Software_companies",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Software_companies.csproj",
+              "RelativeDocumentMoniker": "Software_companies.csproj",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Software_Companies\\Software_companies\\Software_companies.csproj",
+              "RelativeToolTip": "Software_companies.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T06:39:06.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

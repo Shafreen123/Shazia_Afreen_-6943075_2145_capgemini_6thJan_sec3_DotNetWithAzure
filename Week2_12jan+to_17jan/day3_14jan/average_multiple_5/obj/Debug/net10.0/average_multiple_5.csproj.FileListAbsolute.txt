@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\bin\Debug\net10.0\average_multiple_5.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\bin\Debug\net10.0\average_multiple_5.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\bin\Debug\net10.0\average_multiple_5.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\bin\Debug\net10.0\average_multiple_5.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\bin\Debug\net10.0\average_multiple_5.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\refint\average_multiple_5.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\average_multiple_5.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day3_14jan\average_multiple_5\obj\Debug\net10.0\ref\average_multiple_5.dll

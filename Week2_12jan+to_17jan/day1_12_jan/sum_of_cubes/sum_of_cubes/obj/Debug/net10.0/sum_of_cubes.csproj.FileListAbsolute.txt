@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\bin\Debug\net10.0\sum_of_cubes.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\bin\Debug\net10.0\sum_of_cubes.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\bin\Debug\net10.0\sum_of_cubes.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\bin\Debug\net10.0\sum_of_cubes.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\bin\Debug\net10.0\sum_of_cubes.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\refint\sum_of_cubes.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\sum_of_cubes.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\sum_of_cubes\obj\Debug\net10.0\ref\sum_of_cubes.dll

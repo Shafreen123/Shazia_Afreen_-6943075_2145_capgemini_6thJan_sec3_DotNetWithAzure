@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\bin\Debug\net10.0\LibraryManagement.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\bin\Debug\net10.0\LibraryManagement.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\bin\Debug\net10.0\LibraryManagement.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\bin\Debug\net10.0\LibraryManagement.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\bin\Debug\net10.0\LibraryManagement.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\refint\LibraryManagement.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\LibraryManagement.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\LibraryManagement\obj\Debug\net10.0\ref\LibraryManagement.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\week5_2feb_to_7feb\\day_4_5feb\\Closest_Integer_with_Whole_Square_Root\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53557D43-C10F-4C6A-9D11-EF747BD94154}|Closest_Integer_with_Whole_Square_Root.csproj|d:\\capegemini_cu_sec-3_shazia\\week5_2feb_to_7feb\\day_4_5feb\\closest_integer_with_whole_square_root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53557D43-C10F-4C6A-9D11-EF747BD94154}|Closest_Integer_with_Whole_Square_Root.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week5_2feb_to_7feb\\day_4_5feb\\Closest_Integer_with_Whole_Square_Root\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week5_2feb_to_7feb\\day_4_5feb\\Closest_Integer_with_Whole_Square_Root\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:34:48.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

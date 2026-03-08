@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\bin\Debug\net10.0\MostRecurentNumber.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\bin\Debug\net10.0\MostRecurentNumber.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\bin\Debug\net10.0\MostRecurentNumber.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\bin\Debug\net10.0\MostRecurentNumber.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\bin\Debug\net10.0\MostRecurentNumber.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\refint\MostRecurentNumber.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\MostRecurentNumber.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day4_9jan\MostRecurentNumber\obj\Debug\net10.0\ref\MostRecurentNumber.dll

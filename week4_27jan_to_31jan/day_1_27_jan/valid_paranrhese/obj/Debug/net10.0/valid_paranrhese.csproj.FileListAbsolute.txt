@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\bin\Debug\net10.0\valid_paranrhese.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\bin\Debug\net10.0\valid_paranrhese.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\bin\Debug\net10.0\valid_paranrhese.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\bin\Debug\net10.0\valid_paranrhese.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\bin\Debug\net10.0\valid_paranrhese.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\refint\valid_paranrhese.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\valid_paranrhese.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\valid_paranrhese\obj\Debug\net10.0\ref\valid_paranrhese.dll

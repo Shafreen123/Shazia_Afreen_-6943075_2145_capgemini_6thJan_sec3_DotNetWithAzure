@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\bin\Debug\net10.0\ReverseString.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\bin\Debug\net10.0\ReverseString.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\bin\Debug\net10.0\ReverseString.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\bin\Debug\net10.0\ReverseString.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\bin\Debug\net10.0\ReverseString.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\refint\ReverseString.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ReverseString.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\ReverseString\obj\Debug\net10.0\ref\ReverseString.dll

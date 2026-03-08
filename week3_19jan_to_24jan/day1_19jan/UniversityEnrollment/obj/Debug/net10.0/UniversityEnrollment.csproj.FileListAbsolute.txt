@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\bin\Debug\net10.0\UniversityEnrollment.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\bin\Debug\net10.0\UniversityEnrollment.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\bin\Debug\net10.0\UniversityEnrollment.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\bin\Debug\net10.0\UniversityEnrollment.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\bin\Debug\net10.0\UniversityEnrollment.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\refint\UniversityEnrollment.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\UniversityEnrollment.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\UniversityEnrollment\obj\Debug\net10.0\ref\UniversityEnrollment.dll

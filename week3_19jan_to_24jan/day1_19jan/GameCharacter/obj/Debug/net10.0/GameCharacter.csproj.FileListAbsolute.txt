@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\bin\Debug\net10.0\GameCharacter.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\bin\Debug\net10.0\GameCharacter.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\bin\Debug\net10.0\GameCharacter.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\bin\Debug\net10.0\GameCharacter.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\bin\Debug\net10.0\GameCharacter.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\refint\GameCharacter.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\GameCharacter.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day1_19jan\GameCharacter\obj\Debug\net10.0\ref\GameCharacter.dll

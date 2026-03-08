@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\bin\Debug\net10.0\frequency_input.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\bin\Debug\net10.0\frequency_input.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\bin\Debug\net10.0\frequency_input.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\bin\Debug\net10.0\frequency_input.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\bin\Debug\net10.0\frequency_input.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\refint\frequency_input.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\frequency_input.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\frequency_input\obj\Debug\net10.0\ref\frequency_input.dll

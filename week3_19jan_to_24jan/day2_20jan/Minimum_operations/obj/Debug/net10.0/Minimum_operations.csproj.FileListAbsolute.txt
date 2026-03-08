@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\bin\Debug\net10.0\Minimum_operations.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\bin\Debug\net10.0\Minimum_operations.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\bin\Debug\net10.0\Minimum_operations.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\bin\Debug\net10.0\Minimum_operations.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\bin\Debug\net10.0\Minimum_operations.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\refint\Minimum_operations.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\Minimum_operations.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week3_19jan_to_24jan\day2_20jan\Minimum_operations\obj\Debug\net10.0\ref\Minimum_operations.dll

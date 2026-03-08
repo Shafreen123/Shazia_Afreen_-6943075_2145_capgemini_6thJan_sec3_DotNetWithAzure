@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\bin\Debug\net10.0\Remove_last_occurance.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\bin\Debug\net10.0\Remove_last_occurance.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\bin\Debug\net10.0\Remove_last_occurance.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\bin\Debug\net10.0\Remove_last_occurance.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\bin\Debug\net10.0\Remove_last_occurance.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\refint\Remove_last_occurance.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\Remove_last_occurance.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Remove_last_occurance\obj\Debug\net10.0\ref\Remove_last_occurance.dll

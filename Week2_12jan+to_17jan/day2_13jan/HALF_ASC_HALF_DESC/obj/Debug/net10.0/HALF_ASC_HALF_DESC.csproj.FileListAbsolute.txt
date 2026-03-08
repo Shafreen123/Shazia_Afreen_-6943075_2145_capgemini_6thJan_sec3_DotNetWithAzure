@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\bin\Debug\net10.0\HALF_ASC_HALF_DESC.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\bin\Debug\net10.0\HALF_ASC_HALF_DESC.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\bin\Debug\net10.0\HALF_ASC_HALF_DESC.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\bin\Debug\net10.0\HALF_ASC_HALF_DESC.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\bin\Debug\net10.0\HALF_ASC_HALF_DESC.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\refint\HALF_ASC_HALF_DESC.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\HALF_ASC_HALF_DESC.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day2_13jan\HALF_ASC_HALF_DESC\obj\Debug\net10.0\ref\HALF_ASC_HALF_DESC.dll

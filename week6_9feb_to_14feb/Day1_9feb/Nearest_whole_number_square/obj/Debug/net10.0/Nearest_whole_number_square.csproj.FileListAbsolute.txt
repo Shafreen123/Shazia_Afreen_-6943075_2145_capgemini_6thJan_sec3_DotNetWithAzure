@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\bin\Debug\net10.0\Nearest_whole_number_square.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\bin\Debug\net10.0\Nearest_whole_number_square.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\bin\Debug\net10.0\Nearest_whole_number_square.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\bin\Debug\net10.0\Nearest_whole_number_square.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\bin\Debug\net10.0\Nearest_whole_number_square.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\refint\Nearest_whole_number_square.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\Nearest_whole_number_square.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week6_9feb_to_14feb\Day1_9feb\Nearest_whole_number_square\obj\Debug\net10.0\ref\Nearest_whole_number_square.dll

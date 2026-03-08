@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\bin\Debug\net10.0\E Commerce Category Analytics.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\bin\Debug\net10.0\E Commerce Category Analytics.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\bin\Debug\net10.0\E Commerce Category Analytics.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\bin\Debug\net10.0\E Commerce Category Analytics.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\bin\Debug\net10.0\E Commerce Category Analytics.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\refint\E Commerce Category Analytics.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\E Commerce Category Analytics.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week9_2march_6march\day2_3 march\M1_12_QUES\E Commerce Category Analytics\obj\Debug\net10.0\ref\E Commerce Category Analytics.dll

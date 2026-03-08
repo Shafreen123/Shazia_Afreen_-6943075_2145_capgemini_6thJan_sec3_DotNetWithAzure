@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\bin\Debug\net10.0\day_5_1.exe
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\bin\Debug\net10.0\day_5_1.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\bin\Debug\net10.0\day_5_1.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\bin\Debug\net10.0\day_5_1.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\bin\Debug\net10.0\day_5_1.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\refint\day_5_1.dll
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\day_5_1.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week1_6jan_to_10jan\Day5_10jan\multiple_of three\obj\Debug\net10.0\ref\day_5_1.dll

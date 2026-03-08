@@ -1,0 +1,4 @@
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\obj\Debug\net10.0\3rd.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\obj\Debug\net10.0\3rd.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\obj\Debug\net10.0\3rd.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\Week2_12jan+to_17jan\day1_12_jan\sum_of_cubes\obj\Debug\net10.0\3rd.csproj.CoreCompileInputs.cache

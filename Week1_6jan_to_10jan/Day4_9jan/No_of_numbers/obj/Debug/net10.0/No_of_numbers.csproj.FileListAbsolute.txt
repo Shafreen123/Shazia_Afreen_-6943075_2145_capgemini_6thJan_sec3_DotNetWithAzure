@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\bin\Debug\net10.0\No_of_numbers.exe
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\bin\Debug\net10.0\No_of_numbers.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\bin\Debug\net10.0\No_of_numbers.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\bin\Debug\net10.0\No_of_numbers.dll
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\bin\Debug\net10.0\No_of_numbers.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.dll
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\refint\No_of_numbers.dll
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\No_of_numbers.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\No_of_numbers\obj\Debug\net10.0\ref\No_of_numbers.dll

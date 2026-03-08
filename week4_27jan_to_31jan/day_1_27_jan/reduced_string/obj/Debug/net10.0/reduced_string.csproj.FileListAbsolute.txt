@@ -1,0 +1,14 @@
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\bin\Debug\net10.0\reduced_string.exe
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\bin\Debug\net10.0\reduced_string.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\bin\Debug\net10.0\reduced_string.runtimeconfig.json
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\bin\Debug\net10.0\reduced_string.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\bin\Debug\net10.0\reduced_string.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\refint\reduced_string.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\reduced_string.genruntimeconfig.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week4_27jan_to_31jan\day_1_27_jan\reduced_string\obj\Debug\net10.0\ref\reduced_string.dll
