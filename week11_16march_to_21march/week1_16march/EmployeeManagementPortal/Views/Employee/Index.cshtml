@@ -1,0 +1,65 @@
+﻿@model List<EmployeeManagementPortal.Models.Employee>
+@{
+    ViewData["Title"] = "Employees";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show">
+        ✅ @TempData["SuccessMessage"]
+        <button type="button" class="btn-close"
+                data-bs-dismiss="alert"></button>
+    </div>
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>👥 All Employees</h2>
+    <a asp-action="Register" class="btn btn-primary">+ Register Employee</a>
+</div>
+
+@if (Model.Count == 0)
+{
+    <div class="alert alert-info">
+        No employees yet.
+        <a asp-action="Register">Register the first employee!</a>
+    </div>
+}
+else
+{
+    <table class="table table-bordered table-hover table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Email</th>
+                <th>Department</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var e in Model)
+            {
+                <tr>
+                    <td>@e.Id</td>
+                    <td>@e.Name</td>
+                    <td>@e.Age</td>
+                    <td>@e.Email</td>
+                    <td>@e.Department</td>
+                    <td>
+                        <a asp-action="Details"
+                           asp-route-id="@e.Id"
+                           class="btn btn-sm btn-info">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot class="table-secondary">
+            <tr>
+                <td colspan="6">
+                    Total: <strong>@Model.Count</strong> employees
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+}

@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\migrations\\20260317070635_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:migrations\\20260317070635_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\hr\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\hr\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\hr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\hr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\week1_16march\\employeemanagementportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEC12C-1DC1-2F53-E66E-04729A14BF65}|EmployeeManagementPortal.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260317070635_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Migrations\\20260317070635_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260317070635_InitialCreate.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Migrations\\20260317070635_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260317070635_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:06:35.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:05:51.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\HR\\Reports.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\Reports.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\HR\\Reports.cshtml",
+              "RelativeToolTip": "Views\\HR\\Reports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:05:23.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\HR\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\EmployeeList.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\HR\\EmployeeList.cshtml",
+              "RelativeToolTip": "Views\\HR\\EmployeeList.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:04:59.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\HR\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\HR\\Index.cshtml",
+              "RelativeToolTip": "Views\\HR\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:04:37.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:03:56.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Employee\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Register.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Employee\\Register.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Register.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:03:32.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:03:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:02:22.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T07:01:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HRController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Controllers\\HRController.cs",
+              "RelativeToolTip": "Controllers\\HRController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:00:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:00:25.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:59:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:59:17.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T06:59:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:58:54.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\LogActionFilter.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:58:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:57:28.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\week1_16march\\EmployeeManagementPortal\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:56:53.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

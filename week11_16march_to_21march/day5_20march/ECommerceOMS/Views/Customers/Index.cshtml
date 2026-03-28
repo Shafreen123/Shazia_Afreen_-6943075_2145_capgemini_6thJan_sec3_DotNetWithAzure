@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ECommerceOMS.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="fw-bold"><i class="bi bi-people text-primary"></i> Customers</h2>
+    <a asp-action="Create" class="btn btn-success">
+        <i class="bi bi-person-plus"></i> Add Customer
+    </a>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body p-0">
+        <table class="table table-hover table-striped mb-0">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Address</th>
+                    <th>Orders</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in Model)
+                {
+                    <tr>
+                        <td>@c.CustomerId</td>
+                        <td>
+                            <i class="bi bi-person-circle text-primary"></i>
+                            @c.FirstName @c.LastName
+                        </td>
+                        <td>@c.Email</td>
+                        <td>@c.Phone</td>
+                        <td>@c.Address</td>
+                        <td>
+                            <span class="badge bg-primary">
+                                @c.Orders?.Count() orders
+                            </span>
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@c.CustomerId"
+                                   class="btn btn-sm btn-outline-info">
+                                <i class="bi bi-eye"></i>
+                            </a>
+                            <a asp-action="Edit" asp-route-id="@c.CustomerId"
+                                   class="btn btn-sm btn-outline-warning">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@c.CustomerId"
+                                   class="btn btn-sm btn-outline-danger">
+                                <i class="bi bi-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

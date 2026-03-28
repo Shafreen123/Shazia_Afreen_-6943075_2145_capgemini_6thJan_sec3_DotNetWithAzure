@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "HR Reports";
+}
+
+<div class="container mt-4">
+    <h2>📊 HR Reports</h2>
+
+    <div class="card shadow-sm" style="max-width:400px">
+        <div class="card-header bg-warning">
+            <h5>Summary Report</h5>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered mb-0">
+                <tr>
+                    <th>Total Employees</th>
+                    <td><strong>@ViewBag.TotalEmployees</strong></td>
+                </tr>
+                <tr>
+                    <th>Report Generated</th>
+                    <td>@ViewBag.GeneratedAt</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <a asp-action="Index" class="btn btn-secondary mt-3">← Back to HR</a>
+</div>

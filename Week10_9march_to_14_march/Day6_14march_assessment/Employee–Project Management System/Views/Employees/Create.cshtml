@@ -1,0 +1,26 @@
+﻿@model Employee_Project_Management_System.Models.Employee
+
+<h2>Create Employee</h2>
+<form asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="FullName"></label>
+        <input asp-for="FullName" class="form-control" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="DepartmentId">Department</label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.Departments"
+                class="form-select"></select>
+    </div>
+    <div class="mb-3">
+        <label>Assign Projects</label>
+        <select name="selectedProjects" asp-items="ViewBag.Projects"
+                class="form-select" multiple></select>
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

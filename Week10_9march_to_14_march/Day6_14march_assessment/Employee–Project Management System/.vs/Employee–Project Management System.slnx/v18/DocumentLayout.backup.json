@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\projects\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\projects\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Migrations\\20260314060451_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260314060451_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|d:\\capegemini_cu_sec-3_shazia\\week10_9march_to_14_march\\day6_14march_assessment\\employee\u2013project management system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1822FAE4-E16B-4428-A41F-3B7FE26F39EC}|Employee\u2013Project Management System.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projects\\Edit.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:46:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projects\\Delete.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Projects\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:45:27.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projects\\Create.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "Views\\Projects\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:44:36.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projects\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:42:11.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:38:26.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projects\\Dashboard.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Projects\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Projects\\Dashboard.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:19:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Delete.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:16:30.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAABBwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:16:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:15:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T06:15:20.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:12:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:09:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260314060451_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Migrations\\20260314060451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260314060451_InitialCreate.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Migrations\\20260314060451_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260314060451_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T06:04:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:48:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T05:47:16.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:43:50.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeProject.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:37:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:37:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:37:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\Week10_9march_to_14_march\\Day6_14march_assessment\\Employee\u2013Project Management System\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:37:01.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

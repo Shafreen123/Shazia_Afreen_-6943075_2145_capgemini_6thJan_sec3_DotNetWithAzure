@@ -1,0 +1,46 @@
+﻿@model List<EmployeeManagementPortal.Models.Employee>
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2>👥 Employee List</h2>
+
+@if (Model.Count == 0)
+{
+    <div class="alert alert-info">No employees found.</div>
+}
+else
+{
+    <table class="table table-bordered table-hover table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Email</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var e in Model)
+            {
+                <tr>
+                    <td>@e.Id</td>
+                    <td>@e.Name</td>
+                    <td>@e.Age</td>
+                    <td>@e.Email</td>
+                    <td>@e.Department</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot class="table-secondary">
+            <tr>
+                <td colspan="5">
+                    Total: <strong>@Model.Count</strong> employees
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+}
+
+<a asp-action="Index" class="btn btn-secondary mt-2">← Back to HR</a>

@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\viewmodels\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:viewmodels\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\models\\shippingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:models\\shippingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\migrations\\20260324055348_makeshippingfieldsnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:migrations\\20260324055348_makeshippingfieldsnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\migrations\\20260324050421_fixshippingdetailkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:migrations\\20260324050421_fixshippingdetailkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day5_20march\\ecommerceoms\\ecommerceoms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F14BC1D7-6C9E-55E2-D67C-31039C8BC176}|ECommerceOMS.csproj|solutionrelative:ecommerceoms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:09:21.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:10:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:10:52.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:13:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAQwLkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:14:48.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:15:56.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T05:01:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:08:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ViewModels\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductListViewModel.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ViewModels\\ProductListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:06:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:05:49.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ViewModels\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderDetailsViewModel.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ViewModels\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\OrderDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:05:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:02:05.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:00:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShippingDetail.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\ShippingDetail.cs",
+              "RelativeDocumentMoniker": "Models\\ShippingDetail.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\ShippingDetail.cs",
+              "RelativeToolTip": "Models\\ShippingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:00:22.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:00:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:59:41.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:59:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:58:55.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:58:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:18:50.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T06:07:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T06:07:18.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T06:07:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260324055348_MakeShippingFieldsNullable.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Migrations\\20260324055348_MakeShippingFieldsNullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324055348_MakeShippingFieldsNullable.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Migrations\\20260324055348_MakeShippingFieldsNullable.cs",
+              "RelativeToolTip": "Migrations\\20260324055348_MakeShippingFieldsNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:53:48.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:42:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Edit.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:44:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:35:41.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Details.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T05:19:09.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260324050421_FixShippingDetailKey.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Migrations\\20260324050421_FixShippingDetailKey.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324050421_FixShippingDetailKey.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\Migrations\\20260324050421_FixShippingDetailKey.cs",
+              "RelativeToolTip": "Migrations\\20260324050421_FixShippingDetailKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:04:22.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ECommerceOMS.csproj",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ECommerceOMS.csproj",
+              "RelativeDocumentMoniker": "ECommerceOMS.csproj",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\day5_20march\\ECommerceOMS\\ECommerceOMS.csproj",
+              "RelativeToolTip": "ECommerceOMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T04:57:32.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

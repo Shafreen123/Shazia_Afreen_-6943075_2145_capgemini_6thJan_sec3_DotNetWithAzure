@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\firstexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:firstexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\controllers\\api\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:controllers\\api\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\models\\dtos\\apiloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:models\\dtos\\apiloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|d:\\capegemini_cu_sec-3_shazia\\week11_16march_to_21march\\day4_19march\\firstexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB9032A6-7C3B-4079-A400-82B4F1948179}|FirstExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstExample",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\FirstExample.csproj",
+              "RelativeDocumentMoniker": "FirstExample.csproj",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\FirstExample.csproj",
+              "RelativeToolTip": "FirstExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T06:08:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:49:21.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:03:36.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Home\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DashBoard.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Home\\DashBoard.cshtml",
+              "RelativeToolTip": "Views\\Home\\DashBoard.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:03:09.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:01:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:00:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthApiController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Controllers\\Api\\AuthApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\AuthApiController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Controllers\\Api\\AuthApiController.cs",
+              "RelativeToolTip": "Controllers\\Api\\AuthApiController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:58:13.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:57:12.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:55:51.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiLoginRequest.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\DTOs\\ApiLoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ApiLoginRequest.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\DTOs\\ApiLoginRequest.cs",
+              "RelativeToolTip": "Models\\DTOs\\ApiLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:55:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:54:23.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:53:10.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtTokenService.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:51:18.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:48:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:47:18.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CapeGemini_CU_Sec-3_Shazia\\week11_16march_to_21march\\Day4_19march\\FirstExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T05:43:10.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Student Dashboard";
+}
+ 
+<div class="container mt-5">
+    <div class="row g-4">
+ 
+        <!-- Welcome Card -->
+        <div class="col-12">
+            <div class="card border-0 bg-primary text-white shadow">
+                <div class="card-body p-4">
+                    <h3 class="fw-bold">Welcome, @ViewBag.UserName!</h3>
+                    <p class="mb-1">Role: <span class="badge bg-warning text-dark">@ViewBag.Roles</span></p>
+                    <p class="mb-0 small">Student ID: @ViewBag.StudentId</p>
+                </div>
+            </div>
+        </div>
+ 
+        <!-- Stat Cards -->
+        <div class="col-md-4">
+            <div class="card border-start border-success border-4 shadow-sm">
+                <div class="card-body">
+                    <p class="text-muted mb-1">Courses Enrolled</p>
+                    <h2 class="fw-bold text-success">5</h2>
+                </div>
+            </div>
+        </div>
+ 
+        <div class="col-md-4">
+            <div class="card border-start border-warning border-4 shadow-sm">
+                <div class="card-body">
+                    <p class="text-muted mb-1">Assignments Due</p>
+                    <h2 class="fw-bold text-warning">3</h2>
+                </div>
+            </div>
+        </div>
+ 
+        <div class="col-md-4">
+            <div class="card border-start border-info border-4 shadow-sm">
+                <div class="card-body">
+                    <p class="text-muted mb-1">Attendance</p>
+                    <h2 class="fw-bold text-info">94%</h2>
+                </div>
+            </div>
+        </div>
+ 
+    </div>
+</div>
+

@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5" style="max-width:420px">
+    <div class="card shadow">
+
+        <div class="card-header bg-primary text-white text-center py-3">
+            <h4>🔒 Admin Login</h4>
+        </div>
+
+        <div class="card-body p-4">
+
+            @* Show logout message if just logged out *@
+            @if (TempData["LogoutMessage"] != null)
+            {
+                <div class="alert alert-info">
+                    ✅ @TempData["LogoutMessage"]
+                </div>
+            }
+
+            @* Show error if wrong credentials *@
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger">
+                    ❌ @ViewBag.Error
+                </div>
+            }
+
+            <form asp-action="Login" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="mb-3">
+                    <label class="form-label">Username</label>
+                    <input name="username"
+                           class="form-control"
+                           placeholder="Enter username" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Password</label>
+                    <input name="password"
+                           type="password"
+                           class="form-control"
+                           placeholder="Enter password" />
+                </div>
+
+                <button type="submit"
+                        class="btn btn-primary w-100">
+                    Login
+                </button>
+            </form>
+
+        </div>
+
+        <div class="card-footer text-center text-muted">
+            💡 Hint: username = <strong>admin</strong> |
+            password = <strong>123</strong>
+        </div>
+
+    </div>
+</div>

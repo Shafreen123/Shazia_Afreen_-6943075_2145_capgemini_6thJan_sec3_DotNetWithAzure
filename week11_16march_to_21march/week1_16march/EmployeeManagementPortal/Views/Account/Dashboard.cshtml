@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-4">
+
+    <div class="alert alert-success
+                d-flex justify-content-between align-items-center">
+        <div>
+            <h4>👋 Welcome, <strong>@ViewBag.Username</strong>!</h4>
+            <small>Role: <strong>@ViewBag.Role</strong></small>
+        </div>
+        <a asp-action="Logout" class="btn btn-danger">🚪 Logout</a>
+    </div>
+
+    <div class="row mt-4">
+
+        <div class="col-md-4 mb-3">
+            <div class="card border-primary shadow-sm h-100">
+                <div class="card-body text-center p-4">
+                    <h1>👥</h1>
+                    <h5>Employees</h5>
+                    <p class="text-muted">View all employees</p>
+                    <a asp-controller="Employee"
+                       asp-action="Index"
+                       class="btn btn-primary">View Employees</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-3">
+            <div class="card border-success shadow-sm h-100">
+                <div class="card-body text-center p-4">
+                    <h1>📝</h1>
+                    <h5>Register Employee</h5>
+                    <p class="text-muted">Add a new employee</p>
+                    <a asp-controller="Employee"
+                       asp-action="Register"
+                       class="btn btn-success">Register</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-3">
+            <div class="card border-warning shadow-sm h-100">
+                <div class="card-body text-center p-4">
+                    <h1>🏢</h1>
+                    <h5>HR Dashboard</h5>
+                    <p class="text-muted">Manage HR operations</p>
+                    <a asp-controller="HR"
+                       asp-action="Index"
+                       class="btn btn-warning">HR Module</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,75 @@
+﻿@model ECommerceOMS.ViewModels.OrderDetailsViewModel
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2>Order #@Model.Order.OrderId</h2>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card mb-3">
+            <div class="card-header bg-primary text-white">Customer Info</div>
+            <div class="card-body">
+                <p><strong>Name:</strong> @Model.Customer.FirstName @Model.Customer.LastName</p>
+                <p><strong>Email:</strong> @Model.Customer.Email</p>
+                <p><strong>Phone:</strong> @Model.Customer.Phone</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card mb-3">
+            <div class="card-header bg-info text-white">Shipping Info</div>
+            <div class="card-body">
+                @if (Model.ShippingDetail != null)
+                {
+                    <p><strong>Address:</strong> @Model.ShippingDetail.ShippingAddress</p>
+                    <p>
+                        <strong>Status:</strong>
+                        <span class="badge bg-warning text-dark">
+                            @Model.ShippingDetail.Status
+                        </span>
+                    </p>
+                    <p><strong>Tracking:</strong> @Model.ShippingDetail.TrackingNumber</p>
+                    <p>
+                        <strong>Shipped:</strong>
+                        @Model.ShippingDetail.ShippedDate?.ToString("dd MMM yyyy")
+                    </p>
+                }
+                else
+                {
+
+                    <p>No shipping details yet.</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<h4>Order Items</h4>
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Product</th>
+            <th>Qty</th>
+            <th>Unit Price</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderItems)
+        {
+            <tr>
+                <td>@item.Product?.Name</td>
+                <td>@item.Quantity</td>
+                <td>₹@item.UnitPrice.ToString("F2")</td>
+                <td>₹@((item.UnitPrice * item.Quantity).ToString("F2"))</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr class="table-success">
+            <td colspan="3"><strong>Total</strong></td>
+            <td><strong>₹@Model.Order.TotalAmount.ToString("F2")</strong></td>
+        </tr>
+    </tfoot>
+</table>
+<a asp-action="Index" class="btn btn-secondary">Back to Orders</a>

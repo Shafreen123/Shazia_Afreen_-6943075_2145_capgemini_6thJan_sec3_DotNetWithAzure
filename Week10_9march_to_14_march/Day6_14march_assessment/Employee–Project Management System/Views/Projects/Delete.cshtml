@@ -1,0 +1,36 @@
+﻿@model Employee_Project_Management_System.Models.Project
+
+@{
+    ViewData["Title"] = "Delete Project";
+}
+
+<h2>Delete Project</h2>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete <strong>@Model.Title</strong>?
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Title</dt>
+    <dd class="col-sm-9">@Model.Title</dd>
+
+    <dt class="col-sm-3">Description</dt>
+    <dd class="col-sm-9">@Model.Description</dd>
+</dl>
+
+<form asp-action="DeleteConfirmed" asp-route-id="@Model.ProjectId" method="post">
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+```
+
+---
+
+After adding all three, your `Views/Projects` folder should have:
+```
+Views/Projects/
+├── Index.cshtml
+├── Create.cshtml
+├── Edit.cshtml
+├── Delete.cshtml
+└── Dashboard.cshtml
