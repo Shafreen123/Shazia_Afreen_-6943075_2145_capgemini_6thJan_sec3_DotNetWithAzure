@@ -1,0 +1,97 @@
+@model List<SmartHealthcare.MVC.Models.BillViewModel>
+@{ ViewData["Title"] = "Bills"; }
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2><i class="bi bi-receipt"></i> Bills</h2>
+    @if (ViewBag.Role == "Admin" || ViewBag.Role == "Doctor")
+    {
+        <a asp-action="Create" class="btn btn-primary">+ Create Bill</a>
+    }
+</div>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show">
+        @TempData["Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No bills found.</div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Patient</th>
+                    <th>Doctor</th>
+                    <th>Amount (₹)</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Generated</th>
+                    <th>Paid On</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var bill in Model)
+                {
+                    <tr>
+                        <td>@bill.Id</td>
+                        <td>@bill.PatientName</td>
+                        <td>@bill.DoctorName</td>
+                        <td class="fw-bold">₹@bill.Amount.ToString("N2")</td>
+                        <td>@(string.IsNullOrEmpty(bill.Description) ? "—" : bill.Description)</td>
+                        <td>
+                            @{
+                                var badgeClass = bill.Status switch
+                                {
+                                    "Paid"      => "bg-success",
+                                    "Cancelled" => "bg-danger",
+                                    _           => "bg-warning text-dark"
+                                };
+                            }
+                            <span class="badge @badgeClass">@bill.Status</span>
+                        </td>
+                        <td>@bill.GeneratedAt.ToString("dd MMM yyyy")</td>
+                        <td>@(bill.PaidAt.HasValue ? bill.PaidAt.Value.ToString("dd MMM yyyy") : "—")</td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@bill.Id"
+                               class="btn btn-sm btn-outline-info me-1">View</a>
+
+                            @if (ViewBag.Role == "Admin" && bill.Status == "Pending")
+                            {
+                                <form asp-action="MarkPaid" asp-route-id="@bill.Id"
+                                      method="post" class="d-inline">
+                                    <button type="submit" class="btn btn-sm btn-success me-1"
+                                            onclick="return confirm('Mark this bill as Paid?')">
+                                        ✓ Paid
+                                    </button>
+                                </form>
+                                <form asp-action="Cancel" asp-route-id="@bill.Id"
+                                      method="post" class="d-inline">
+                                    <button type="submit" class="btn btn-sm btn-warning me-1"
+                                            onclick="return confirm('Cancel this bill?')">
+                                        Cancel
+                                    </button>
+                                </form>
+                                <form asp-action="Delete" asp-route-id="@bill.Id"
+                                      method="post" class="d-inline">
+                                    <button type="submit" class="btn btn-sm btn-danger"
+                                            onclick="return confirm('Delete this bill permanently?')">
+                                        Delete
+                                    </button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        :root { --bg-start: #0f172a; --bg-end: #312e81; --card-bg: rgba(255,255,255,0.95); --accent: #10b981; --accent-2: #3b82f6; --text: #0f172a; --muted: #64748b; }
+        * { box-sizing: border-box; }
+        body { margin: 0; min-height: 100vh; display: flex; justify-content: center; align-items: center; background-image: radial-gradient(circle at top left, rgba(59,130,246,.35), transparent 35%), linear-gradient(135deg, var(--bg-start), var(--bg-end)); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: var(--text); }
+        .card { width: min(400px, 94vw); border-radius: 16px; background: var(--card-bg); padding: 2.1rem 1.8rem; box-shadow: 0 22px 45px rgba(10, 14, 35, .43); border: 1px solid rgba(203,213,225,0.35); }
+        h2 { margin: 0 0 18px; text-align: center; color: #1f2937; font-size: 1.9rem; }
+        input, select { width: 100%; padding: 12px 14px; margin: 8px 0; border: 1px solid rgba(100,116,139,0.3); border-radius: 10px; font-size: 0.95rem; background: rgba(243,244,246,0.93); transition: border-color .2s, box-shadow .2s; }
+        input:focus, select:focus { border-color: var(--accent-2); outline: none; box-shadow: 0 0 0 3px rgba(59,130,246,0.2); }
+        button { width: 100%; margin-top: 12px; padding: 12px; border: none; border-radius: 10px; background: linear-gradient(90deg, var(--accent), var(--accent-2)); color: white; font-weight: 700; letter-spacing: .2px; cursor: pointer; transition: transform .2s, filter .2s; }
+        button:hover { transform: translateY(-1px); filter: brightness(1.05); }
+        .error, .success { min-height: 18px; margin: 4px 0; font-size: .87rem; }
+        .error { color: #dc2626; }
+        .success { color: #16a34a; }
+        a { display: block; text-align: center; margin-top: 12px; color: #1d4ed8; font-weight: 600; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+<div class="card">
+    <h2>Register</h2>
+    <input type="text" id="username" placeholder="Username" />
+    <input type="email" id="email" placeholder="Email" />
+    <input type="password" id="password" placeholder="Password (min 6 chars)" />
+    <select id="role">
+        <option value="Student">Student</option>
+        <option value="Instructor">Instructor</option>
+    </select>
+    <p class="error" id="error"></p>
+    <p class="success" id="success"></p>
+    <button onclick="register()">Register</button>
+    <a href="login.html">Already have an account? Login</a>
+</div>
+<script>
+    async function register() {
+        const username = document.getElementById("username").value.trim();
+        const email = document.getElementById("email").value.trim();
+        const password = document.getElementById("password").value.trim();
+        const role = document.getElementById("role").value;
+        const errorEl = document.getElementById("error");
+        const successEl = document.getElementById("success");
+
+        errorEl.textContent = "";
+        successEl.textContent = "";
+
+        if (!username) { errorEl.textContent = "Username is required"; return; }
+        if (!email || !email.includes("@")) { errorEl.textContent = "Valid email is required"; return; }
+        if (password.length < 6) { errorEl.textContent = "Password must be at least 6 characters"; return; }
+
+        try {
+            const res = await fetch("/api/auth/register", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ username, email, password, role })
+            });
+            const data = await res.json();
+            if (!res.ok) { errorEl.textContent = data.error || "Registration failed"; return; }
+            successEl.textContent = "Registered! Redirecting to login...";
+            setTimeout(() => window.location.href = "login.html", 1500);
+        } catch {
+            errorEl.textContent = "Server error. Try again.";
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,84 @@
+﻿@model List<SmartHealthcare.MVC.Models.AppointmentViewModel>
+@{ ViewData["Title"] = "Appointments"; }
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Appointments</h2>
+    @if (ViewBag.Role == "Patient" || ViewBag.Role == "Admin")
+    {
+        <a asp-action="Create" class="btn btn-primary">+ Book Appointment</a>
+    }
+</div>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No appointments found.</div>
+}
+else
+{
+<div class="table-responsive">
+    <table class="table table-hover align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Date & Time</th>
+                @if (ViewBag.Role != "Patient")  { <th>Patient</th> }
+                @if (ViewBag.Role != "Doctor")   { <th>Doctor</th>  }
+                <th>Symptoms</th>
+                <th>Notes</th>
+                <th>Status</th>
+                @if (ViewBag.Role == "Doctor" || ViewBag.Role == "Admin") { <th>Action</th> }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var a in Model)
+            {
+            <tr>
+                <td>@a.Id</td>
+                <td>@a.AppointmentDate.ToString("dd MMM yyyy, hh:mm tt")</td>
+                @if (ViewBag.Role != "Patient") { <td>@a.PatientName</td> }
+                @if (ViewBag.Role != "Doctor")  { <td>@a.DoctorName</td>  }
+                <td>
+                    @if (!string.IsNullOrEmpty(a.Symptoms))
+                    {
+                        <span data-bs-toggle="tooltip" title="@a.Symptoms">
+                            @(a.Symptoms.Length > 40
+                                ? a.Symptoms.Substring(0, 40) + "..."
+                                : a.Symptoms)
+                        </span>
+                    }
+                    else { <span class="text-muted">—</span> }
+                </td>
+                <td>@(string.IsNullOrEmpty(a.Notes) ? "—" : a.Notes)</td>
+                <td>
+                    @{
+                        var badge = a.Status switch
+                        {
+                            "Completed"  => "bg-success",
+                            "Cancelled"  => "bg-danger",
+                            "InProgress" => "bg-info",
+                            _            => "bg-warning text-dark"
+                        };
+                    }
+                    <span class="badge @badge">@a.Status</span>
+                </td>
+                @if (ViewBag.Role == "Doctor" || ViewBag.Role == "Admin")
+                {
+                <td>
+                    <a asp-action="UpdateStatus" asp-route-id="@a.Id"
+                       class="btn btn-sm btn-outline-primary">Update Status</a>
+                </td>
+                }
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+}
+
+@section Scripts {
+<script>
+    // Enable Bootstrap tooltips for truncated symptoms
+    document.querySelectorAll('[data-bs-toggle="tooltip"]')
+        .forEach(el => new bootstrap.Tooltip(el));
+</script>
+}

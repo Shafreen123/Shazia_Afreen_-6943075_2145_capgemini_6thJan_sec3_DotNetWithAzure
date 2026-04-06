@@ -50,7 +50,8 @@ public class AuthService
         var claims = new[]
         {
             new Claim(ClaimTypes.NameIdentifier, user.Id),
-            new Claim(ClaimTypes.Name, user.Username)
+            new Claim(ClaimTypes.Name, user.Username),
+            new Claim("IsAdmin", user.IsAdmin.ToString())
         };
 
         var token = new JwtSecurityToken(

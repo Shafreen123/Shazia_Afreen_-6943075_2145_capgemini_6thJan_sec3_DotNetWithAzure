@@ -10,6 +10,8 @@ public class MappingProfile : Profile
     {
         CreateMap<Event, EventDto>();
         CreateMap<CreateEventDto, Event>();
+        // For update (PUT) — maps from DTO onto existing entity
+        CreateMap<CreateEventDto, Event>().ReverseMap();
 
         CreateMap<Booking, BookingDto>()
             .ForMember(dest => dest.EventTitle,

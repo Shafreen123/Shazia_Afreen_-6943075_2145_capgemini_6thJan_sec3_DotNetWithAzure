@@ -1,0 +1,103 @@
+@model ECommerceApp.MVC.ViewModels.OrderViewModel
+@{ ViewData["Title"] = $"Order #{Model?.Id}"; }
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>Order #@Model?.Id</h2>
+    <a asp-action="Index" class="btn btn-outline-secondary">Back to My Orders</a>
+</div>
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">Order not found.</div>
+}
+else
+{
+    <div class="card mb-4 shadow-sm">
+        <div class="card-header bg-dark text-white">
+            <strong>Order Summary</strong>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-3">
+                    <p class="text-muted mb-1">Order Date</p>
+                    <p class="fw-bold">@Model.OrderDate.ToString("dd MMM yyyy")</p>
+                </div>
+                <div class="col-md-3">
+                    <p class="text-muted mb-1">Status</p>
+                    <span class="badge fs-6 @(Model.Status == "Delivered" ? "bg-success" :
+                                             Model.Status == "Shipped"    ? "bg-info"    :
+                                             Model.Status == "Cancelled"  ? "bg-danger"  : "bg-warning text-dark")">
+                        @Model.Status
+                    </span>
+                </div>
+                <div class="col-md-3">
+                    <p class="text-muted mb-1">Total Amount</p>
+                    <p class="fw-bold text-success fs-5">Rs. @Model.TotalAmount.ToString("0.00")</p>
+                </div>
+                <div class="col-md-3">
+                    <p class="text-muted mb-1">Shipping Address</p>
+                    <p class="fw-bold">@Model.ShippingAddress</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-dark text-white">
+            <strong>Order Items</strong>
+        </div>
+        <div class="card-body p-0">
+            <table class="table table-hover mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>Product</th>
+                        <th>Unit Price</th>
+                        <th>Quantity</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Items)
+                    {
+                        <tr>
+                            <td class="fw-bold">@item.ProductName</td>
+                            <td>Rs. @item.UnitPrice.ToString("0.00")</td>
+                            <td>@item.Quantity</td>
+                            <td class="text-success fw-bold">Rs. @item.Subtotal.ToString("0.00")</td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot class="table-light">
+                    <tr>
+                        <td colspan="3" class="text-end fw-bold">Total:</td>
+                        <td class="text-success fw-bold fs-5">
+                            Rs. @Model.TotalAmount.ToString("0.00")
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+
+    @if (Context.Session.GetString("UserRole") == "Admin")
+    {
+        <div class="card mt-4 shadow-sm">
+            <div class="card-header bg-warning text-dark">
+                <strong>Admin — Update Order Status</strong>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Order" asp-action="UpdateStatus" method="post" class="d-flex gap-2">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <select name="status" class="form-select w-auto">
+                        <option value="Pending"   selected="@(Model.Status == "Pending")">Pending</option>
+                        <option value="Confirmed" selected="@(Model.Status == "Confirmed")">Confirmed</option>
+                        <option value="Shipped"   selected="@(Model.Status == "Shipped")">Shipped</option>
+                        <option value="Delivered" selected="@(Model.Status == "Delivered")">Delivered</option>
+                        <option value="Cancelled" selected="@(Model.Status == "Cancelled")">Cancelled</option>
+                    </select>
+                    <button type="submit" class="btn btn-warning">Update Status</button>
+                </form>
+            </div>
+        </div>
+    }
+}

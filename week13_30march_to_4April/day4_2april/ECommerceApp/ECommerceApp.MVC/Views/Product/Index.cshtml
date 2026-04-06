@@ -1,0 +1,75 @@
+@model List<ECommerceApp.MVC.ViewModels.ProductViewModel>
+@{ ViewData["Title"] = "Products"; }
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>🛍️ Products</h2>
+    <form method="get" class="d-flex gap-2">
+        <input type="text" name="search" value="@ViewBag.Search"
+               class="form-control" placeholder="Search products..." />
+        <button type="submit" class="btn btn-outline-dark">Search</button>
+        @if (!string.IsNullOrEmpty(ViewBag.Search as string))
+        {
+            <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+        }
+    </form>
+</div>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No products found.</div>
+}
+else
+{
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var product in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" class="card-img-top"
+                             style="height:200px;object-fit:cover;" alt="@product.Name" />
+                    }
+                    else
+                    {
+                        <div class="bg-light text-center py-5 text-muted">No Image</div>
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text text-muted small">@product.Description</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="fw-bold text-success fs-5">₹@product.Price.ToString("0.00")</span>
+                            <span class="badge bg-secondary">Stock: @product.Stock</span>
+                        </div>
+                        @if (product.Categories.Any())
+                        {
+                            <div class="mt-2">
+                                @foreach (var cat in product.Categories)
+                                {
+                                    <span class="badge bg-light text-dark border me-1">@cat</span>
+                                }
+                            </div>
+                        }
+                    </div>
+                    <div class="card-footer d-flex gap-2">
+                        <a asp-action="Details" asp-route-id="@product.Id"
+                           class="btn btn-outline-dark btn-sm flex-grow-1">Details</a>
+                        @if (Context.Session.GetString("JwtToken") != null)
+                        {
+                            <a asp-controller="Order" asp-action="Place"
+                               asp-route-productId="@product.Id"
+                               class="btn btn-dark btn-sm flex-grow-1">Buy Now</a>
+                        }
+                        @if (Context.Session.GetString("UserRole") == "Admin")
+                        {
+                            <form asp-action="Delete" asp-route-id="@product.Id" method="post"
+                                  onsubmit="return confirm('Delete this product?')">
+                                <button type="submit" class="btn btn-danger btn-sm">🗑</button>
+                            </form>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

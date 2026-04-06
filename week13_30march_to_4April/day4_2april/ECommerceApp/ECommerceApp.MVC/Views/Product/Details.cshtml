@@ -1,0 +1,50 @@
+@model ECommerceApp.MVC.ViewModels.ProductViewModel
+@{ ViewData["Title"] = Model?.Name ?? "Product"; }
+
+<div class="row mt-3">
+    <div class="col-md-5">
+        @if (!string.IsNullOrEmpty(Model?.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" class="img-fluid rounded shadow" alt="@Model.Name" />
+        }
+        else
+        {
+            <div class="bg-light rounded d-flex align-items-center justify-content-center"
+                 style="height:300px; font-size:4rem;">🛍️</div>
+        }
+    </div>
+    <div class="col-md-7">
+        <h2>@Model?.Name</h2>
+        <p class="text-muted">@Model?.Description</p>
+        <h3 class="text-success">${@Model?.Price:F2}</h3>
+        <p>
+            <span class="badge @(Model?.Stock > 0 ? "bg-success" : "bg-danger")">
+                @(Model?.Stock > 0 ? $"In Stock ({Model?.Stock})" : "Out of Stock")
+            </span>
+        </p>
+        @if (Model?.Categories.Any() == true)
+        {
+            <p>
+                <strong>Categories:</strong>
+                @foreach (var cat in Model.Categories)
+                {
+                    <span class="badge bg-secondary me-1">@cat</span>
+                }
+            </p>
+        }
+        <div class="mt-4 d-flex gap-2">
+            <a asp-action="Index" class="btn btn-outline-secondary">← Back</a>
+            @if (Context.Session.GetString("JwtToken") != null && Model?.Stock > 0)
+            {
+                <a asp-controller="Order" asp-action="Place"
+                   asp-route-productId="@Model.Id"
+                   class="btn btn-dark btn-lg">🛒 Buy Now</a>
+            }
+            else if (Context.Session.GetString("JwtToken") == null)
+            {
+                <a asp-controller="Auth" asp-action="Login"
+                   class="btn btn-outline-dark">Login to Buy</a>
+            }
+        </div>
+    </div>
+</div>

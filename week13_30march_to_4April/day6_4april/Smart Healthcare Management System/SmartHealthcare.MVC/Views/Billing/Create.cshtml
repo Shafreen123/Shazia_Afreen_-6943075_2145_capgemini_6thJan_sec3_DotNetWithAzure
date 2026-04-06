@@ -1,0 +1,51 @@
+@model SmartHealthcare.MVC.Models.CreateBillViewModel
+@{ ViewData["Title"] = "Create Bill"; }
+
+<h2>Create Bill</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="AppointmentId" class="form-label fw-bold"></label>
+                <select asp-for="AppointmentId" class="form-select">
+                    <option value="">-- Select Appointment --</option>
+                    @if (ViewBag.Appointments is List<SmartHealthcare.MVC.Models.AppointmentViewModel> appts)
+                    {
+                        @foreach (var a in appts)
+                        {
+                            <option value="@a.Id">
+                                #@a.Id — @a.PatientName → Dr. @a.DoctorName
+                                (@a.AppointmentDate.ToString("dd MMM yyyy")) [@a.Status]
+                            </option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="AppointmentId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Amount" class="form-label fw-bold">Amount (₹)</label>
+                <input asp-for="Amount" class="form-control" placeholder="e.g. 500.00" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label fw-bold"></label>
+                <textarea asp-for="Description" class="form-control" rows="3"
+                          placeholder="e.g. Consultation + Blood test"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Generate Bill</button>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

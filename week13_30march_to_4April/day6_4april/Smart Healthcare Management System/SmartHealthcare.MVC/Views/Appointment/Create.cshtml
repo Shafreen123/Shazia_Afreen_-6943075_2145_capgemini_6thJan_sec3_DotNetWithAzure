@@ -1,0 +1,95 @@
+﻿@model SmartHealthcare.MVC.Models.CreateAppointmentViewModel
+@{ ViewData["Title"] = "Book Appointment"; }
+
+<h2>Book Appointment</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-7">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+            @if (ViewBag.Role == "Admin")
+            {
+            <div class="mb-3">
+                <label asp-for="PatientId" class="form-label fw-bold">Patient</label>
+                <select asp-for="PatientId" class="form-select">
+                    <option value="">-- Select Patient --</option>
+                    @foreach (var p in (ViewBag.Patients as List<SmartHealthcare.MVC.Models.PatientViewModel> ?? new()))
+                    {
+                        <option value="@p.Id">@p.FullName</option>
+                    }
+                </select>
+                <span asp-validation-for="PatientId" class="text-danger"></span>
+            </div>
+            }
+            else
+            {
+                <input type="hidden" asp-for="PatientId" />
+            }
+
+            <div class="mb-3">
+                <label asp-for="DoctorId" class="form-label fw-bold">Select Doctor</label>
+                <select asp-for="DoctorId" class="form-select">
+                    <option value="">-- Select Doctor --</option>
+                    @foreach (var d in (ViewBag.Doctors as List<SmartHealthcare.MVC.Models.DoctorViewModel> ?? new()))
+                    {
+                        <option value="@d.Id">
+                            @d.FullName
+                            @if (d.Specializations.Any())
+                            { <text>— @string.Join(", ", d.Specializations)</text> }
+                        </option>
+                    }
+                </select>
+                <span asp-validation-for="DoctorId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="AppointmentDate" class="form-label fw-bold">Appointment Date & Time</label>
+                <input asp-for="AppointmentDate" type="datetime-local" class="form-control" />
+                <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Symptoms" class="form-label fw-bold">
+                    Symptoms <span class="text-danger">*</span>
+                </label>
+                <textarea asp-for="Symptoms" class="form-control" rows="4"
+                    placeholder="Describe your symptoms in detail...
+e.g. Fever since 2 days, headache, sore throat"></textarea>
+                <div class="form-text">Be as specific as possible to help the doctor prepare.</div>
+                <span asp-validation-for="Symptoms" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Notes" class="form-label fw-bold">Additional Notes
+                    <span class="text-muted fw-normal">(optional)</span>
+                </label>
+                <textarea asp-for="Notes" class="form-control" rows="2"
+                    placeholder="Any allergies, current medications, or other info..."></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Book Appointment</button>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+        </form>
+    </div>
+
+    <div class="col-md-4 offset-md-1">
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">💡 Tips for describing symptoms</div>
+            <div class="card-body small">
+                <ul class="mb-0">
+                    <li>When did the symptoms start?</li>
+                    <li>How severe are they? (mild / moderate / severe)</li>
+                    <li>Are they constant or intermittent?</li>
+                    <li>Any fever, pain, or swelling?</li>
+                    <li>Any recent travel or exposure?</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

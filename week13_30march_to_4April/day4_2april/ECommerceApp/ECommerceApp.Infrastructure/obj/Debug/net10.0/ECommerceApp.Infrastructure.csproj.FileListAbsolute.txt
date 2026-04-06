@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\bin\Debug\net10.0\ECommerceApp.Infrastructure.deps.json
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\bin\Debug\net10.0\ECommerceApp.Infrastructure.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\bin\Debug\net10.0\ECommerceApp.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\bin\Debug\net10.0\ECommerceApp.Infrastructure.pdb
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\refint\ECommerceApp.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.pdb
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerceApp.Infrastructure.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ref\ECommerceApp.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\bin\Debug\net10.0\ECommerceApp.Core.dll
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\bin\Debug\net10.0\ECommerceApp.Core.pdb
+C:\Users\HP\OneDrive\Desktop\ECommerceApp\ECommerceApp.Infrastructure\obj\Debug\net10.0\ECommerc.B1159617.Up2Date

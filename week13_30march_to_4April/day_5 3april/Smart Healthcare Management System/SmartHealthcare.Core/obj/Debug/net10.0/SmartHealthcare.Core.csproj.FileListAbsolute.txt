@@ -1,0 +1,35 @@
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.deps.json
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.dll
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.pdb
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.AssemblyInfoInputs.cache
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.AssemblyInfo.cs
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.csproj.CoreCompileInputs.cache
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.sourcelink.json
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.dll
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\refint\SmartHealthcare.Core.dll
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.pdb
+C:\Users\2005p\OneDrive\Documents\GitHub\Pawani_6904327_Chandigarh_Capgemini_6Jan_2026\week13\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\ref\SmartHealthcare.Core.dll
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.deps.json
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.dll
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.pdb
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.AssemblyInfo.cs
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.dll
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\refint\SmartHealthcare.Core.dll
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.pdb
+C:\Users\HP\Downloads\Day4_2ndapril\Day4_2ndapril\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\ref\SmartHealthcare.Core.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.deps.json
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\bin\Debug\net10.0\SmartHealthcare.Core.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.AssemblyInfoInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.AssemblyInfo.cs
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.csproj.CoreCompileInputs.cache
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.sourcelink.json
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\refint\SmartHealthcare.Core.dll
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\SmartHealthcare.Core.pdb
+D:\CapeGemini_CU_Sec-3_Shazia\week13_30march_to_4April\day_5 3april\Smart Healthcare Management System\SmartHealthcare.Core\obj\Debug\net10.0\ref\SmartHealthcare.Core.dll

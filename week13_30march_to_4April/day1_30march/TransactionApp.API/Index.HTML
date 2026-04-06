@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign In — TransactApp</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="page-login">
+  <div class="login-layout">
+    <div class="login-panel" aria-hidden="true">
+      <div class="panel-bg"></div>
+      <div class="panel-content">
+        <div class="panel-logo">TA</div>
+        <p class="panel-tagline">Your financial story,<br><em>clearly told.</em></p>
+        <div class="panel-stats">
+          <div class="stat"><span class="stat-num">₹2.4M</span><span class="stat-label">Tracked daily</span></div>
+          <div class="stat"><span class="stat-num">99.9%</span><span class="stat-label">Uptime</span></div>
+        </div>
+      </div>
+      <div class="orb orb-1"></div>
+      <div class="orb orb-2"></div>
+    </div>
+    <div class="login-form-side">
+      <div class="auth-card" role="main">
+        <div class="card-header">
+          <h1 class="brand">TransactApp</h1>
+          <p class="subtitle">Welcome back — sign in to continue</p>
+        </div>
+        <div id="errorBanner" class="error-banner hidden" role="alert"></div>
+        <form id="loginForm" novalidate>
+          <div class="field">
+            <label for="username">Username</label>
+            <div class="input-wrap">
+              <svg class="field-icon" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="7" r="3" stroke="currentColor" stroke-width="1.5"/><path d="M3 17c0-3.314 3.134-6 7-6s7 2.686 7 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+              <input type="text" id="username" placeholder="your_username" autocomplete="username" required>
+            </div>
+            <span class="field-error" id="usernameErr"></span>
+          </div>
+          <div class="field">
+            <label for="password">Password</label>
+            <div class="input-wrap">
+              <svg class="field-icon" viewBox="0 0 20 20" fill="none"><rect x="4" y="9" width="12" height="9" rx="2" stroke="currentColor" stroke-width="1.5"/><path d="M7 9V6a3 3 0 0 1 6 0v3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+              <input type="password" id="password" placeholder="••••••••" autocomplete="current-password" required minlength="6">
+              <button type="button" class="toggle-pw" id="togglePw" aria-label="Toggle password visibility">
+                <svg viewBox="0 0 20 20" fill="none"><path d="M2 10s3-6 8-6 8 6 8 6-3 6-8 6-8-6-8-6Z" stroke="currentColor" stroke-width="1.5"/><circle cx="10" cy="10" r="2.5" stroke="currentColor" stroke-width="1.5"/></svg>
+              </button>
+            </div>
+            <span class="field-error" id="passwordErr"></span>
+          </div>
+          <button type="submit" id="loginBtn">
+            <span id="btnText">Sign in</span>
+            <svg id="btnSpinner" class="spinner hidden" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2" stroke-dasharray="40" stroke-dashoffset="10" stroke-linecap="round"/></svg>
+            <svg class="btn-arrow" viewBox="0 0 20 20" fill="none"><path d="M5 10h10M11 6l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </form>
+        <p class="hint">Demo: <code>demo</code> / <code>password123</code></p>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+  <script>
+    document.getElementById('togglePw')?.addEventListener('click', () => {
+      const inp = document.getElementById('password');
+      inp.type = inp.type === 'password' ? 'text' : 'password';
+    });
+  </script>
+</body>
+</html>

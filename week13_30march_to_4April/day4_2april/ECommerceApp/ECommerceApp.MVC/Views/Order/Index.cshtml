@@ -1,0 +1,71 @@
+@model List<ECommerceApp.MVC.ViewModels.OrderViewModel>
+@{ ViewData["Title"] = "My Orders"; }
+
+<h2 class="mb-4">📦 My Orders</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        You haven't placed any orders yet.
+        <a asp-controller="Product" asp-action="Index">Browse products →</a>
+    </div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Order #</th>
+                    <th>Product</th>
+                    <th>Date</th>
+                    <th>Status</th>
+                    <th>Qty</th>
+                    <th>Unit Price</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    var itemCount = order.Items.Count;
+                    @for (int i = 0; i < itemCount; i++)
+                    {
+                        var item = order.Items[i];
+                        <tr>
+                            @if (i == 0)
+                            {
+                                <td rowspan="@itemCount"><strong>#@order.Id</strong></td>
+                            }
+                            <td>@item.ProductName</td>
+                            @if (i == 0)
+                            {
+                                <td rowspan="@itemCount">@order.OrderDate.ToString("dd MMM yyyy")</td>
+                                <td rowspan="@itemCount">
+                                    <span class="badge @(order.Status == "Delivered" ? "bg-success" :
+                                                       order.Status == "Shipped"    ? "bg-info"    :
+                                                       order.Status == "Cancelled"  ? "bg-danger"  : "bg-warning text-dark")">
+                                        @order.Status
+                                    </span>
+                                </td>
+                            }
+                            <td>x@(item.Quantity)</td>
+                            <td>Rs. @item.UnitPrice.ToString("0.00")</td>
+                            @if (i == 0)
+                            {
+                                <td rowspan="@itemCount" class="fw-bold text-success">
+                                    Rs. @order.TotalAmount.ToString("0.00")
+                                </td>
+                            }
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="alert alert-secondary mt-2">
+        Total Orders: <strong>@Model.Count</strong> |
+        Total Spent: <strong class="text-success">Rs. @Model.Sum(o => o.TotalAmount).ToString("0.00")</strong>
+    </div>
+}
